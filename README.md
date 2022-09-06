@@ -1,6 +1,6 @@
 ## 🎖 A Mailchimp email subscription server
 
-### ⚡️Installing
+### ⚡️Installation
  modify these variables in `main.py`
 
 ```yaml
