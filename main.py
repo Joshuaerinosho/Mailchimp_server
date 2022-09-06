@@ -13,6 +13,10 @@ list_id = config('LIST_ID')
 def root():
     return {"Message": "Greetings!!"}
 
+@app.get("/api/v1/subscribe")
+def subscribe():
+    return {"Message": "Subscription post endpoint"}
+
 
 @app.post("/api/v1/subscribe")
 # function to manage subscriber
