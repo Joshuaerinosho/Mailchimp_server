@@ -12,5 +12,5 @@ list_id = "YOUR AUDIENCE LIST ID"
 ### 📄 API Documentation URL
 
 ```yaml
-https://{YOUR_URL}/docs
+https://your_own_domain/docs
 ```
